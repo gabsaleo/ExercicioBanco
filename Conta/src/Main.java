@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Teste {
+public class Main {
 
 	public static void main(String[] args) {
 		String opc, opcCC, opcCP, opcSaida = "n", sair = "n";
